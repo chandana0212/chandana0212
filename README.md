@@ -7,7 +7,7 @@
 -->
 
 <h1 align="center">Chandana S</h1>
-<h3 align="center">AI Systems • Data Science • Software Engineering</h3>
+<h3 align="center">AI Systems • Computer Science • Software Engineering</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C2FF&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Specializing+in+Data+Science;Building+Intelligent+Software+Systems;Strong+in+Algorithms+%26+Problem+Solving;Future+AI+Engineer" />
@@ -17,7 +17,7 @@
 
 ## 👩‍💻 About Me
 
-I am a Computer Science Engineering student specializing in **Data Science** at *Sai Vidya Institute of Technology*.  
+I am a Computer Science Engineering student specializing in **Computer Science** at *Sai Vidya Institute of Technology*.  
 
 I focus on building intelligent, efficient, and scalable systems backed by strong algorithmic foundations.
 
@@ -34,7 +34,7 @@ I am continuously improving my logical thinking, coding efficiency, and real-wor
 
 ## 🎓 Education
 
-- **10th:** Deva Matha Central School  
+- **10th:** The Regency Public School  
 - **11th–12th:** MES PU College  
 - **B.E CSE (Data Science):** Sai Vidya Institute of Technology  
 
