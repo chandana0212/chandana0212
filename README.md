@@ -4,7 +4,7 @@
 <h3 align="center">AI Systems • Computer Science • Software Engineering</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C2FF&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Specializing+in+Data+Science;Building+Intelligent+Software+Systems;Strong+in+Algorithms+%26+Problem+Solving;Future+AI+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C2FF&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Building+Intelligent+Software+Systems;Strong+in+Algorithms+%26+Problem+Solving;Future+AI+Engineer" />
 </p>
 
 ---
