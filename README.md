@@ -1,6 +1,6 @@
 ## 👩‍💻 About Me
 
-I am a Computer Science Engineering student specializing in **Data Science** at *Sai Vidya Institute of Technology*, driven by a strong passion for building intelligent, efficient, and scalable software solutions.
+I am a Computer Science Engineering student specializing in **Computer Science** at *Sai Vidya Institute of Technology*, driven by a strong passion for building intelligent, efficient, and scalable software solutions.
 
 I enjoy solving complex problems and transforming ideas into structured, optimized systems. My academic journey and personal projects focus on strengthening my foundation in:
 
