@@ -1,10 +1,10 @@
 <!-- ================= HEADER ================= -->
 
 <h1 align="center">Chandana S</h1>
-<h3 align="center">Computer Science Student • AI Systems Builder • Future Software Engineer</h3>
+<h3 align="center">AI Systems • Computer Science • Software Engineering</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=0A66C2&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Specializing+in+Data+Science;Building+Intelligent+Software+Systems;Focused+on+Algorithms+%26+Problem+Solving;Future+AI+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C2FF&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Specializing+in+Data+Science;Building+Intelligent+Software+Systems;Strong+in+Algorithms+%26+Problem+Solving;Future+AI+Engineer" />
 </p>
 
 ---
@@ -13,43 +13,46 @@
 
 I am a Computer Science Engineering student specializing in **Computer Science** at *Sai Vidya Institute of Technology*.  
 
-I’m passionate about building intelligent systems, writing efficient code, and solving structured problems using strong algorithmic thinking.
+I focus on building intelligent, efficient, and scalable systems backed by strong algorithmic foundations.
 
-I focus on developing:
+My technical interests include:
 
-- 🧠 Strong foundations in Data Structures & Algorithms  
-- 📊 Analytical and Data-Driven Thinking  
-- 💻 Clean, Maintainable Software Systems  
-- 🚀 Real-world Project Development  
+- 🧠 Data Structures & Algorithms    
+- 🤖 AI-driven Applications  
+- ⚙️ Backend & System Design  
 
-Currently expanding my expertise in **ADA, Python, Java, C**, and practical backend development.
-
-I’m actively seeking internship opportunities and collaborative projects where I can contribute, learn, and grow as a professional software engineer.
+I am continuously improving my logical thinking, coding efficiency, and real-world software development skills.
 
 ---
 
 ## 🎓 Education
 
-- **10th:** The Regency Public School School  
+- **10th:** The Regency Public School  
 - **11th–12th:** MES PU College  
 - **B.E CSE (Data Science):** Sai Vidya Institute of Technology  
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Languages
-C • Java • Python • JavaScript • PHP  
+## 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,java,python,js,php" />
+</p>
 
-### 🌐 Frontend
-HTML • CSS • Vue.js  
+## 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,vue" />
+</p>
 
-### ⚙️ Tools & Platforms
-Git • GitHub • VS Code • Vercel • Render  
+## ⚙️ Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chandana0212&show_icons=true&theme=github_dark&hide_border=true" />
@@ -59,9 +62,13 @@ Git • GitHub • VS Code • Vercel • Render
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandana0212&theme=github-dark&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandana0212&theme=github_dark" />
+</p>
+
 ---
 
-## 📈 Most Used Languages
+# 📈 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandana0212&layout=compact&theme=github_dark&hide_border=true" />
@@ -69,24 +76,30 @@ Git • GitHub • VS Code • Vercel • Render
 
 ---
 
-## 🌟 Featured Projects
+# 🏆 GitHub Achievements
 
-### 🔐 AegisAI  
-AI-powered phishing intelligence system designed to analyze intent, evaluate risk, and provide transparent threat decisions in real time.
-
-### 📊 Data Science Projects  
-Exploratory data analysis, algorithm optimization, and structured problem-solving implementations.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chandana0212&theme=darkhub&no-frame=true&margin-w=15" />
+</p>
 
 ---
 
-## 🎯 Career Focus
-  
-- Software Engineering  
-- Algorithmic Problem Solving  
-- Frontend & Backend Development  
+# 🌟 Featured Projects
+
+## 🔐 AegisAI  
+AI-powered phishing intelligence system designed to analyze intent, evaluate risk, and deliver transparent threat decisions in real time.
+
+## 📊 Data Science Projects  
+Exploratory data analysis, model building, and algorithm optimization projects focused on real-world problem solving.
+
+---
+
+# 🎯 Career Vision
+
+To build intelligent, secure, and scalable systems that contribute to global digital trust and innovation.
 
 ---
 
 <p align="center">
-  <b>“Consistency builds mastery.”</b>
+  <b>Consistency • Discipline • Growth</b>
 </p>
