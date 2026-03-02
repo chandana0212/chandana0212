@@ -1,65 +1,19 @@
-<h1 align="center">Chandana S</h1>
-<h3 align="center">AI • Cybersecurity • Full Stack Development</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=CSE+Student;Building+AegisAI+🚀;AI+Driven+Security+Systems;Future+Cybersecurity+Engineer" />
-</p>
-
----
-
 ## 👩‍💻 About Me
 
-- 🎓 CSE Student
-- 🛡️ Building **AegisAI** – AI Powered Phishing Intelligence System
-- 🤖 Interested in AI Security, Threat Detection & Risk Analysis
-- 🌱 Currently learning Advanced Backend & System Design
-- 🚀 Goal: Build Intelligent Security Systems for Global Digital Trust
+I am a Computer Science Engineering student specializing in **Data Science** at *Sai Vidya Institute of Technology*, driven by a strong passion for building intelligent, efficient, and scalable software solutions.
 
----
+I enjoy solving complex problems and transforming ideas into structured, optimized systems. My academic journey and personal projects focus on strengthening my foundation in:
 
-## 🚀 Tech Stack
+- 🧠 Data Structures & Algorithms  
+- 📊 Data Science & Analytical Problem Solving  
+- 💻 Core Programming & Software Engineering  
+- 🚀 Practical System Design & Development  
 
-### 💻 Languages
-Python • JavaScript • C • Java
+I am continuously working on improving my logical thinking, coding efficiency, and real-world application development skills.
 
-### 🌐 Frontend
-React • HTML • CSS • Tailwind
+Currently, I am expanding my expertise in:
+- Analysis & Design of Algorithms (ADA)  
+- Python, C, and Java Development  
+- Writing clean, maintainable, and performance-focused code  
 
-### 🔙 Backend
-FastAPI • Node.js
-
-### 🗄️ Database
-MongoDB
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandana0212&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandana0212&theme=radical" />
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandana0212&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🌟 Featured Project
-
-### 🔐 AegisAI
-Next-generation phishing intelligence system that analyzes intent, evaluates risk, and delivers transparent threat decisions in real time to protect digital trust worldwide.
-
----
-
-<p align="center">
-  ⭐ If you like my work, consider giving a star to my repositories!
-</p>
+I am actively seeking internship opportunities and collaborative projects where I can contribute meaningfully, learn from industry professionals, and grow into a skilled software engineer.
