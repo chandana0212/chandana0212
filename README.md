@@ -70,17 +70,23 @@ I am continuously improving my logical thinking, coding efficiency, and real-wor
 
 # 📈 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandana0212&layout=compact&theme=radical" />
-</p>
+# 📈 Core Programming Languages
+
+- 🥇 **Python** – Data analysis, scripting, and backend logic  
+- 🥈 **Java** – Object-oriented programming and academic projects  
+- 🥉 **C** – Strong foundation in memory management and problem solving  
+- 💻 **JavaScript** – Frontend interactivity and basic full-stack development  
+- 🌐 **PHP** – Backend scripting fundamentals  
 
 ---
 
-# 🏆 GitHub Achievements
+# 🧠 Technical Focus Areas
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chandana0212&theme=darkhub&no-frame=true&margin-w=15" />
-</p>
+- Data Structures & Algorithms  
+- Analysis & Design of Algorithms (ADA)  
+- Core Programming & Logical Thinking  
+- Data Science Fundamentals  
+- Software Development Principles  
 
 ---
 
