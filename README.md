@@ -1,5 +1,4 @@
-<!-- ================= BANNER (Add your banner link below if created) ================= -->
-
+<!-- ================= OPTIONAL BANNER ================= -->
 <!-- 
 <p align="center">
   <img src="YOUR_BANNER_IMAGE_LINK_HERE" />
@@ -7,28 +6,28 @@
 -->
 
 <h1 align="center">Chandana S</h1>
-<h3 align="center">AI Systems • Computer Science • Software Engineering</h3>
+<h3 align="center">Computer Science • Data Science • AI Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C2FF&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Specializing+in+Data+Science;Building+Intelligent+Software+Systems;Strong+in+Algorithms+%26+Problem+Solving;Future+AI+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C2FF&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Specialized+in+Computer+Science;Building+Intelligent+Software+Systems;Strong+in+Algorithms+%26+Problem+Solving;Future+AI+Engineer" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I am a Computer Science Engineering student specializing in **Computer Science** at *Sai Vidya Institute of Technology*.  
+I am a Computer Science Engineering student **specialized in Computer Science** at *Sai Vidya Institute of Technology*.  
 
-I focus on building intelligent, efficient, and scalable systems backed by strong algorithmic foundations.
+I am passionate about building intelligent, efficient, and scalable software systems backed by strong algorithmic foundations.
 
-My technical interests include:
+My core interests include:
 
 - 🧠 Data Structures & Algorithms  
-- 📊 Data Science & Analytical Systems  
+- 📊 Data Science & Analytical Thinking  
 - 🤖 AI-driven Applications  
-- ⚙️ Backend & System Design  
+- ⚙️ Backend Development & System Design  
 
-I am continuously improving my logical thinking, coding efficiency, and real-world software development skills.
+I continuously work on strengthening my logical thinking, coding efficiency, and real-world software development skills.
 
 ---
 
@@ -43,13 +42,19 @@ I am continuously improving my logical thinking, coding efficiency, and real-wor
 # 🛠️ Tech Stack
 
 ## 💻 Languages
-C • Java • Python • JavaScript • PHP  
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,python,js,php" />
+</p>
 
 ## 🌐 Frontend
-HTML • CSS • Vue.js  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,vue" />
+</p>
 
-## ⚙️ Tools & Platforms
-Git • GitHub • VS Code • Vercel • Render  
+## ⚙️ Backend & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,git,github,vscode,vercel,render" />
+</p>
 
 ---
 
@@ -65,16 +70,6 @@ Git • GitHub • VS Code • Vercel • Render
 
 ---
 
-# 📈 Core Programming Languages
-
-- 🥇 **Python** – Backend logic, scripting, and application development  
-- 🥈 **Java** – Object-oriented programming & structured application design  
-- 🥉 **C** – Strong foundation in memory management and problem solving  
-- 💻 **JavaScript** – Frontend interactivity and dynamic behavior  
-- 🌐 **PHP** – Backend scripting fundamentals  
-
----
-
 # 🌟 Featured Projects
 
 ## 🔐 AegisAI  
@@ -85,26 +80,21 @@ AI-powered phishing intelligence system designed to analyze intent, evaluate ris
 ## ✅ To-Do Flask App  
 🔗 Repository: https://github.com/chandana0212/todo-flask-app  
 
-A simple and efficient task management web application built using **Flask (Python)**.  
-Features include:
+A task management web application built using **Flask (Python)**.
 
+**Features:**
 - Add, update, and delete tasks  
-- Clean backend logic using Flask  
-- Lightweight and structured project architecture  
-- Practical understanding of CRUD operations  
+- Clean backend logic  
+- Structured CRUD implementation  
+- Practical understanding of web application architecture  
 
-This project demonstrates backend fundamentals and web application development using Python.
-
----
-
-## 📊 Data Science Projects  
-Exploratory data analysis, structured problem-solving implementations, and algorithm-based projects focused on real-world applications.
+This project demonstrates backend fundamentals and Python-based web development.
 
 ---
 
 # 🎯 Career Vision
 
-To build intelligent, secure, and scalable systems that contribute to global digital trust and innovation.
+To design and develop intelligent, secure, and scalable systems that create meaningful real-world impact.
 
 ---
 
