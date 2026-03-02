@@ -71,7 +71,7 @@ I am continuously improving my logical thinking, coding efficiency, and real-wor
 # 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandana0212&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandana0212&layout=compact&theme=radical" />
 </p>
 
 ---
