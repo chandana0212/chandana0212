@@ -86,6 +86,121 @@ I continuously work on strengthening my logical thinking, coding efficiency, and
 
 # 🌟 Featured Projects
 
+# 🤖 AI Resume Analyzer
+
+An intelligent web application that analyzes a **resume against a job description** and calculates a **match score using Natural Language Processing (NLP)**.
+
+This project helps users understand **how well their resume fits a job role** by comparing skills, keywords, and experience with the job requirements.
+
+---
+
+## ✨ Features
+
+* 📄 Upload Resume in **PDF format**
+* 📝 Paste a **Job Description**
+* 🧠 **AI-based similarity analysis**
+* 📊 Displays **Match Score (%)**
+* ⚡ Fast processing using **FastAPI backend**
+* 🎨 Simple and interactive **React frontend**
+
+---
+
+## 🧰 Tech Stack
+
+| Technology       | Usage                      |
+| ---------------- | -------------------------- |
+| **Python**       | Backend logic              |
+| **FastAPI**      | API framework              |
+| **React**        | Frontend UI                |
+| **Scikit-learn** | NLP similarity calculation |
+| **PyPDF2**       | Extract text from resumes  |
+
+---
+
+## ⚙️ How It Works
+
+1️⃣ Upload a **resume PDF**
+2️⃣ Paste a **job description**
+3️⃣ The system extracts text from the resume
+4️⃣ NLP compares resume content with job description
+5️⃣ A **match score (%)** is calculated using **Cosine Similarity**
+
+---
+
+## 📂 Project Structure
+
+```
+ai-resume-analyzer
+│
+├── backend
+│   ├── main.py
+│   └── requirements.txt
+│
+├── frontend
+│   ├── src
+│   └── package.json
+│
+└── README.md
+```
+
+---
+
+## 🚀 Running the Project
+
+### 1️⃣ Backend Setup
+
+```bash
+cd backend
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+python -m uvicorn main:app --reload
+```
+
+Backend will run on:
+
+```
+http://127.0.0.1:8000
+```
+
+---
+
+### 2️⃣ Frontend Setup
+
+```bash
+cd frontend
+npm install
+npm start
+```
+
+Frontend runs on:
+
+```
+http://localhost:3000
+```
+
+---
+
+## 📊 Example Output
+
+```
+Match Score: 74%
+```
+
+This indicates how closely the resume matches the job description.
+
+---
+
+## 💡 Future Improvements
+
+* 🔍 Keyword highlighting in resume
+* 🤖 AI skill recommendations
+* 📈 Resume improvement suggestions
+* 🌐 Deploy as a web application
+* 📊 Interactive analytics dashboard
+
+---
+
 ## 🔐 AegisAI  
 AI-powered phishing intelligence system designed to analyze intent, evaluate risk, and deliver transparent threat decisions in real time.
 
