@@ -1,5 +1,5 @@
 <!-- ================= OPTIONAL BANNER ================= -->
-<!-- 
+<!--
 <p align="center">
   <img src="YOUR_BANNER_IMAGE_LINK_HERE" />
 </p>
