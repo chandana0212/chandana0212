@@ -86,6 +86,49 @@ I continuously work on strengthening my logical thinking, coding efficiency, and
 
 # 🌟 Featured Projects
 
+## 🚀 AI Fake News Detector
+
+🔗 **Project Link:** https://github.com/chandana0212/AI-Fake-News-Detector
+
+An intelligent web application that detects whether a news article is **real or fake** using Machine Learning and Natural Language Processing.
+
+### 💡 Features
+
+* 🧠 ML-based classification using trained models
+* ⚡ Fast and accurate prediction system
+* 🌐 Full-stack implementation (Frontend + Backend)
+* 🧾 Real-time text analysis
+* 🎯 Clean and interactive UI
+
+### 🛠 Tech Stack
+
+* **Frontend:** HTML, CSS, JavaScript
+* **Backend:** Python (Flask)
+* **Machine Learning:** Scikit-learn, NLP
+* **Model:** TF-IDF + Logistic Regression
+
+### 📊 How It Works
+
+1. User inputs a news article
+2. Text is preprocessed using NLP techniques
+3. TF-IDF vectorization is applied
+4. ML model predicts whether the news is real or fake
+
+### ⚠️ Note
+
+Due to GitHub file size limitations, datasets and trained models are not included in this repository.
+
+### 🚀 Future Improvements
+
+* 🔍 Improve model accuracy using deep learning
+* 🌐 Deploy live version
+* 📱 Build mobile-friendly UI
+* 📊 Add visualization dashboard
+
+---
+
+💡 This project demonstrates my ability to build **end-to-end ML applications**, integrate frontend and backend systems, and solve real-world problems using AI.
+
 # 🤖 AI Resume Analyzer
 
 An intelligent web application that analyzes a **resume against a job description** and calculates a **match score using Natural Language Processing (NLP)**.
