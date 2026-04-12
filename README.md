@@ -87,7 +87,6 @@ I continuously work on strengthening my logical thinking, coding efficiency, and
 # 🌟 Featured Projects
 
 ## 🚀 AI Fake News Detector
-https://img.shields.io/badge/:badgeContent
 
 🔗 **Project Link:** https://github.com/chandana0212/AI-Fake-News-Detector
 
