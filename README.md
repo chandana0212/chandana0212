@@ -11,7 +11,7 @@
 
 ## 👩‍💻 About Me
 
-* 🎓 CSE (Data Science) student at **Sai Vidya Institute of Technology**
+* 🎓 CSE student at **Sai Vidya Institute of Technology**
 * 🤖 Passionate about **AI, Machine Learning & Scalable Systems**
 * 💡 Strong foundation in **Data Structures & Problem Solving**
 * 🌱 Currently improving in **Full Stack + Open Source**
