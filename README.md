@@ -54,7 +54,6 @@ I continuously work on strengthening my logical thinking, coding efficiency, and
 ---
 
 # 🛠️ Tech Stack
-
 ## 💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c,java,python,js,php" />
