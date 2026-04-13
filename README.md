@@ -1,275 +1,114 @@
-<!-- ================= OPTIONAL BANNER ================= -->
-<!--
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK_HERE" />
-</p>
--->
+<!-- ================= HEADER ================= -->
 
-<h1 align="center">Chandana S</h1>
-<h3 align="center">Computer Science • AI Systems</h3>
+<h1 align="center">Hi 👋, I'm Chandana S</h1>
+<h3 align="center">🚀 Computer Science Student | AI & Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C2FF&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Specialized+in+Computer+Science;Building+Intelligent+Software+Systems;Strong+in+Algorithms+%26+Problem+Solving;Future+AI+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%7C+Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Learner;Building+Real+World+Projects;Future+Software+Engineer" />
 </p>
 
----
-# 📫 Contact Information
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/chandana-s-557804305/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Chandana%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:chandanasathish026@gmail.com">
-  <img src="https://img.shields.io/badge/Email-chandanasathish026@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
 ---
 
 ## 👩‍💻 About Me
 
-I am a Computer Science Engineering student **specialized in Computer Science** at *Sai Vidya Institute of Technology*.  
-
-I am passionate about building intelligent, efficient, and scalable software systems backed by strong algorithmic foundations.
-
-My core interests include:
-
-- 🧠 Data Structures & Algorithms  
-- 📊 Data Science & Analytical Thinking  
-- 🤖 AI-driven Applications  
-- ⚙️ Backend Development & System Design  
-
-I continuously work on strengthening my logical thinking, coding efficiency, and real-world software development skills.
+* 🎓 CSE (Data Science) student at **Sai Vidya Institute of Technology**
+* 🤖 Passionate about **AI, Machine Learning & Scalable Systems**
+* 💡 Strong foundation in **Data Structures & Problem Solving**
+* 🌱 Currently improving in **Full Stack + Open Source**
+* 🎯 Goal: Build impactful AI-driven applications
 
 ---
 
-## 🎓 Education
+## 🛠️ Tech Stack
 
-- **10th:** The Regency Public School  
-- **11th–12th:** MES PU College  
-- **B.E CSE (Data Science):** Sai Vidya Institute of Technology  
+### 💻 Languages
 
----
-
-# 🛠️ Tech Stack
-## 💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c,java,python,js,php" />
 </p>
 
-## 🌐 Frontend
+### 🌐 Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,vue" />
+  <img src="https://skillicons.dev/icons?i=html,css,vue,react" />
 </p>
 
-## ⚙️ Backend & Tools
+### ⚙️ Backend & Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,git,github,vscode,vercel,render" />
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,git,github,vscode,vercel,render" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## 🚀 Featured Projects
+
+### 🧠 AI Fake News Detector
+
+🔗 https://github.com/chandana0212/AI-Fake-News-Detector
+
+* Detects **fake vs real news** using NLP + Machine Learning
+* Uses **TF-IDF + Logistic Regression**
+* Full-stack app with real-time prediction
+
+**Tech:** Python, Flask, Scikit-learn, NLP
+
+---
+
+### 🤖 AI Resume Analyzer
+
+* Compares **resume vs job description** using NLP
+* Generates **match score (%) using cosine similarity**
+* Built with **FastAPI + React**
+
+**Tech:** Python, FastAPI, React, Scikit-learn
+
+---
+
+### 🔐 AegisAI
+
+* AI-powered **phishing detection system**
+* Analyzes intent and evaluates risk in real time
+
+---
+
+### ✅ To-Do Flask App
+
+🔗 https://github.com/chandana0212/todo-flask-app
+
+* CRUD-based task manager
+* Demonstrates backend fundamentals
+
+**Tech:** Flask, Python
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chandana0212&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandana0212&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
-# 🌟 Featured Projects
+## 🌟 What Sets Me Apart
 
-## 🚀 AI Fake News Detector
-
-🔗 **Project Link:** https://github.com/chandana0212/AI-Fake-News-Detector
-
-An intelligent web application that detects whether a news article is **real or fake** using Machine Learning and Natural Language Processing.
-
-### 💡 Features
-
-* 🧠 ML-based classification using trained models
-* ⚡ Fast and accurate prediction system
-* 🌐 Full-stack implementation (Frontend + Backend)
-* 🧾 Real-time text analysis
-* 🎯 Clean and interactive UI
-
-### 🛠 Tech Stack
-
-* **Frontend:** HTML, CSS, JavaScript
-* **Backend:** Python (Flask)
-* **Machine Learning:** Scikit-learn, NLP
-* **Model:** TF-IDF + Logistic Regression
-
-### 📊 How It Works
-
-1. User inputs a news article
-2. Text is preprocessed using NLP techniques
-3. TF-IDF vectorization is applied
-4. ML model predicts whether the news is real or fake
-
-### ⚠️ Note
-
-Due to GitHub file size limitations, datasets and trained models are not included in this repository.
-
-### 🚀 Future Improvements
-
-* 🔍 Improve model accuracy using deep learning
-* 🌐 Deploy live version
-* 📱 Build mobile-friendly UI
-* 📊 Add visualization dashboard
+* 🧠 Strong **problem-solving mindset**
+* 🤖 Ability to build **end-to-end AI applications**
+* ⚙️ Experience with **full-stack development**
+* 📈 Continuous learner with consistent growth
 
 ---
 
-💡 This project demonstrates my ability to build **end-to-end ML applications**, integrate frontend and backend systems, and solve real-world problems using AI.
+## 🎯 Career Vision
 
-# 🤖 AI Resume Analyzer
-
-An intelligent web application that analyzes a **resume against a job description** and calculates a **match score using Natural Language Processing (NLP)**.
-
-This project helps users understand **how well their resume fits a job role** by comparing skills, keywords, and experience with the job requirements.
+To build **intelligent, secure, and scalable systems** that solve real-world problems using AI.
 
 ---
 
-## ✨ Features
-
-* 📄 Upload Resume in **PDF format**
-* 📝 Paste a **Job Description**
-* 🧠 **AI-based similarity analysis**
-* 📊 Displays **Match Score (%)**
-* ⚡ Fast processing using **FastAPI backend**
-* 🎨 Simple and interactive **React frontend**
-
----
-
-## 🧰 Tech Stack
-
-| Technology       | Usage                      |
-| ---------------- | -------------------------- |
-| **Python**       | Backend logic              |
-| **FastAPI**      | API framework              |
-| **React**        | Frontend UI                |
-| **Scikit-learn** | NLP similarity calculation |
-| **PyPDF2**       | Extract text from resumes  |
-
----
-
-## ⚙️ How It Works
-
-1️⃣ Upload a **resume PDF**
-2️⃣ Paste a **job description**
-3️⃣ The system extracts text from the resume
-4️⃣ NLP compares resume content with job description
-5️⃣ A **match score (%)** is calculated using **Cosine Similarity**
-
----
-
-## 📂 Project Structure
-
-```
-ai-resume-analyzer
-│
-├── backend
-│   ├── main.py
-│   └── requirements.txt
-│
-├── frontend
-│   ├── src
-│   └── package.json
-│
-└── README.md
-```
-
----
-
-## 🚀 Running the Project
-
-### 1️⃣ Backend Setup
-
-```bash
-cd backend
-python -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt
-python -m uvicorn main:app --reload
-```
-
-Backend will run on:
-
-```
-http://127.0.0.1:8000
-```
-
----
-
-### 2️⃣ Frontend Setup
-
-```bash
-cd frontend
-npm install
-npm start
-```
-
-Frontend runs on:
-
-```
-http://localhost:3000
-```
-
----
-
-## 📊 Example Output
-
-```
-Match Score: 74%
-```
-
-This indicates how closely the resume matches the job description.
-
----
-
-## 💡 Future Improvements
-
-* 🔍 Keyword highlighting in resume
-* 🤖 AI skill recommendations
-* 📈 Resume improvement suggestions
-* 🌐 Deploy as a web application
-* 📊 Interactive analytics dashboard
-
----
-
-## 🔐 AegisAI  
-AI-powered phishing intelligence system designed to analyze intent, evaluate risk, and deliver transparent threat decisions in real time.
-
----
-
-## ✅ To-Do Flask App  
-🔗 Repository: https://github.com/chandana0212/todo-flask-app  
-
-A task management web application built using **Flask (Python)**.
-
-**Features:**
-- Add, update, and delete tasks  
-- Clean backend logic  
-- Structured CRUD implementation  
-- Practical understanding of web application architecture  
-
-This project demonstrates backend fundamentals and Python-based web development.
-
----
-
-# 🎯 Career Vision
-
-To design and develop intelligent, secure, and scalable systems that create meaningful real-world impact.
-
----
-
-# 📫 Contact Information
+## 📫 Connect With Me
 
 <p align="center">
 
@@ -286,5 +125,5 @@ To design and develop intelligent, secure, and scalable systems that create mean
 ---
 
 <p align="center">
-  <b>Consistency • Discipline • Growth</b>
+  <b>🚀 Consistency • Growth • Real Impact</b>
 </p>
